@@ -1,0 +1,7 @@
+{
+  "name": "file-process",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^2.0.0"
+  }
+}

@@ -1,0 +1,30 @@
+tiger 虎
+tiger cat 虎猫
+zebra 斑马
+orangutan 猩猩
+lion 狮子
+koala 考拉
+platypus 鸭嘴兽
+revolver 左轮手枪
+umbrella 雨伞
+soccer ball 足球
+accordion 手风琴
+ant 蚂蚁
+computer keyboard 电脑键盘
+laptop 笔记本电脑
+strawberry 草莓
+airliner 客机
+orange 橙子
+lemon 柠檬
+pineapple 菠萝
+banana 香蕉
+desktop computer 台式电脑
+hand-held computer 手提电脑
+notebook 笔记本
+web site 网站
+cliff dwelling 意大利面条
+jean 牛仔裤
+notice bar
+search bar
+switch
+badge
