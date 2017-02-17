@@ -1,0 +1,6 @@
+website
+notice bar
+search bar
+laptop
+switch
+badge

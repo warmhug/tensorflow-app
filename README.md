@@ -25,7 +25,7 @@ bazel build tensorflow/examples/label_image:label_image && \
 bazel-bin/tensorflow/examples/label_image/label_image \
 --graph=/tmp/output_graph.pb --labels=/tmp/output_labels.txt \
 --output_layer=final_result \
---image=$HOME/Downloads/1.jpg
+--image=$HOME/inner/_/tensorflow-app/data/validation/2.jpg
 
 # strip 训练结果
 bazel build tensorflow/python/tools:strip_unused && \
